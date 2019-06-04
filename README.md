@@ -8,6 +8,7 @@ It doesn't touch `.ps`, `.bat`, `.cmd` or `.btm` files as they are DOS specific 
 # Requirements
 
 * [Python 3](https://www.python.org/downloads/)
+* [EOL Ender Script](https://raw.github.com/k3rn31p4nic/eol-ender/master/ender.py)
 
 # Usage
 
@@ -45,4 +46,7 @@ ender.py examples prism
 ```
 
 # Notes
+
+> To download this script, [Right-Click here](https://raw.github.com/k3rn31p4nic/eol-ender/master/ender.py) and click **Save Link As...** and save the file.
+
 > Feel free to open issues and/or pull requests if you want to contribute.
